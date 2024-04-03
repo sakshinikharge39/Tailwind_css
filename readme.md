@@ -16,3 +16,5 @@ w-screen - Use w-screen to make an element span the entire width of the viewport
 h-screen - Use h-screen to make an element span the entire height of the viewport.
 
 ### flex - same as css and text-base- font size and line height
+
+### tailwind uses a mobile first breakpoint system
