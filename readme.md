@@ -22,3 +22,5 @@ h-screen - Use h-screen to make an element span the entire height of the viewpor
 ### class="bg-yellow-500 p-[2px] px-[14px] this is a custom property which we can use in tailwind by using this '[]'
 
 ### <a href="#">&#8801</a> this is an entity for small screens when navbar items are hidden it looks like toggle
+
+### most imp - only border-color dene se border nahi aati , hame border-width deni padti hai like this "border-white border-2"
