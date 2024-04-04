@@ -20,3 +20,5 @@ h-screen - Use h-screen to make an element span the entire height of the viewpor
 ### tailwind uses a mobile first breakpoint system
 
 ### class="bg-yellow-500 p-[2px] px-[14px] this is a custom property which we can use in tailwind by using this '[]'
+
+### <a href="#">&#8801</a> this is an entity for small screens when navbar items are hidden it looks like toggle
